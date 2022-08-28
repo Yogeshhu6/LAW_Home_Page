@@ -1,0 +1,107 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+.container{
+    content: ' ';
+    background-image: url(/assets/court.jpg);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: -1;
+    height: 100vh;
+    width: 100rw;
+}
+
+
+.navbar {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: #2B2922;
+    padding: 20px 40px;
+}
+
+.logo {
+    flex-grow: 2px;
+    color: #ffffff;
+}
+
+.navbar div img {
+    width: 120px;
+}
+
+.navbar .list {
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+}
+
+.menu {
+    display: flex;
+    flex-grow: 1;
+    font-family: "Montserrat";
+}
+
+.list {
+    display: flex;
+    flex-grow: 2;
+    justify-content: center;
+    align-items: center;
+}
+
+.list-item {
+    list-style-type: none;
+    margin: 20px 40px;
+    font-family: "Montserrat" , sans-serif;
+    font-size: 20px;
+    color: rgba(128, 128, 128, 0.822);
+}
+
+.button-small {
+    flex-grow: 1;
+    background-color: #2B2922;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 10px;
+    color: #A08F36;
+    border-color: #A08F36;
+    border-style: solid;
+    font-family: "Rubik", sans-serif;
+}
+
+.hero {
+    display: flex;
+    padding: 20px 40px;
+    background-color: #2B2922;
+    padding-top: 30px;
+    padding-bottom: 40px;
+    justify-content: center;
+    align-items: center;
+}
+
+.hero-heading {
+    flex-grow: 3;
+    font-size: 70px;
+    color: #ffffff;
+    font-family: "Montserrat" , sans-serif;
+}
+
+.para {
+    flex-wrap: 1;
+    color: #c0c0c0;
+    font-size: 25px;
+    font-family: "Montserrat" , sans-serif;
+}
+
+
