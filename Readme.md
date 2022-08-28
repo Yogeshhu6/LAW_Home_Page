@@ -21,5 +21,5 @@ __Project Snap Shot__
 ![img](Snap.png)
 
 > Please find the Link of the Project
-[__Law_Home_page__]()
+[__Law_Home_page__](https://merry-arithmetic-63deaa.netlify.app/)
 
