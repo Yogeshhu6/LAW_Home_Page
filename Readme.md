@@ -1,4 +1,4 @@
-# Restaurant Project
+# LAW HOME PAGE Project
 
 ![HTML](https://img.shields.io/badge/-HTML-red)
 ![CSS](https://img.shields.io/badge/-CSS-brightgreen)
